@@ -1,7 +1,7 @@
 # headers and icon 
-title: khang nguyen
-info: phd cs @ uta
-icon-pic: assets/img/mandu_icon.png
+title: Ye Yan Gu
+info: MS ai @ nycu
+icon-pic: assets/img/finger_man.png
 
 # exclude these items when generated website in _site/index.html
 exclude:
