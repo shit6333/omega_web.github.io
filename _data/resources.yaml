@@ -13,26 +13,26 @@ categories:
 
 links:
 
-  - git-api: https://api.github.com/repos/shit6333/Conways-Game-of-Life
-    category: game
-
   - git-api: https://api.github.com/repos/mkhangg/semantic_scene_perception
     category: research
 
-  # - git-api: https://api.github.com/repos/mkhangg/deformable_cobot
-  #   category: research
+  - git-api: https://api.github.com/repos/mkhangg/deformable_cobot
+    category: research
 
-  # - git-api: https://api.github.com/repos/mkhangg/calib_cobot
-  #   category: research
+  - git-api: https://api.github.com/repos/mkhangg/calib_cobot
+    category: research
 
-  # - git-api: https://api.github.com/repos/mkhangg/perception_framework
-  #   category: research
+  - git-api: https://api.github.com/repos/mkhangg/perception_framework
+    category: research
 
-  # - git-api: https://api.github.com/repos/mkhangg/hackmit22
-  #   category: outreach
+  - git-api: https://api.github.com/repos/mkhangg/hackmit22
+    category: outreach
 
-  # - git-api: https://api.github.com/repos/tuantdang/iotree
-  #   category: research
+  - git-api: https://api.github.com/repos/tuantdang/iotree
+    category: research
 
-  # - git-api: https://api.github.com/repos/mkhangg/robotech22
-  #   category: outreach
+  - git-api: https://api.github.com/repos/mkhangg/robotech22
+    category: outreach
+
+  # - git-api: https://api.github.com/repos/shit6333/Conways-Game-of-Life
+  #   category: game
