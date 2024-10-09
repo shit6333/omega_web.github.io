@@ -13,7 +13,7 @@ categories:
 
 links:
 
-  - git-api: https://github.com/shit6333/Conways-Game-of-Life
+  - git-api: https://api.github.com/repos/shit6333/Conways-Game-of-Life
     category: game
 
   # - git-api: https://api.github.com/repos/mkhangg/semantic_scene_perception
