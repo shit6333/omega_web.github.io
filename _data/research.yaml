@@ -1,10 +1,10 @@
 categories:
 
-  - data-filter: perception manipulation
-    category-name: perception + manipulation
+  - data-filter: Image Restoration
+    category-name: Image Restoration
 
-  - data-filter: framework
-    category-name: framework
+  # - data-filter: framework
+  #   category-name: framework
 
 
 projects:
