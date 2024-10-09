@@ -1,13 +1,13 @@
 mini-projects:
 
-  # - title: An Autonomous Spatial Voice Localization Crawling Robot
-  #   system-name: Spidey
-  #   gif: assets/img/demo_spidey.gif
-  #   event: HackMIT 2022 (Boston, MA, U.S.)
-  #   event-web: https://hackmit.org/
-  #   team: <u>Khang Nguyen</u>.
-  #   post: https://spectacle.hackmit.org/project/185
-  #   code: https://github.com/mkhangg/hackmit22
-  #   demo: https://youtu.be/m1g6fkH6Zvg
-  #   description: We present an autonomous spatial voice localization crawling robot demonstrating the potential of assistive technology for people with visual impairment to ask for help whenever they are in a spatial area without physical assistance. 
-  #   prize: Won Sponsorship Award for Assistive Technologies over 198 competing teams.
+  - title: Testing
+    # system-name: Spidey
+    gif: assets/img/Blink2.gif
+    # event: HackMIT 2022 (Boston, MA, U.S.)
+    # event-web: https://hackmit.org/
+    # team: <u>Khang Nguyen</u>.
+    # post: https://spectacle.hackmit.org/project/185
+    code: https://youtube.com/shorts/gFsahthkbBs?si=UqoID1ckAAy8jUk4
+    demo: https://youtube.com/shorts/gFsahthkbBs?si=UqoID1ckAAy8jUk4
+    description: It just a testing
+    prize: Testing Prize
