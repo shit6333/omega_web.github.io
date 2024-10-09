@@ -8,13 +8,13 @@ categories:
   - data-filter: outreach
     category-name: outreach
   
-  - data-filter: others
-    category-name: others
+  - data-filter: game
+    category-name: game
 
 links:
 
-  # - git-api: https://api.github.com/repos/mkhangg/refined_panoptic_mapping
-  #   category: research
+  - git-api: https://github.com/shit6333/Conways-Game-of-Life
+    category: game
 
   # - git-api: https://api.github.com/repos/mkhangg/semantic_scene_perception
   #   category: research
